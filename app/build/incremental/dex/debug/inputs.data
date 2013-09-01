@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378065332000 449 70e3a347628163ba382e9696e2a9ec3c0409d3f1 /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/R$drawable.class
+1378065332000 3254 65eb4fefffa211bb1f3a4bf8020bf3f83b20f8bf /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/OneFragment.class
+1378065332000 528 99fa76292d923ef1d536770cae95c79eb5b77619 /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/R$string.class
+1378065332000 819 c7768bd55505811c5bab94f8f7c98a4db3a57289 /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/R.class
+1378065332000 2223 00653e553e7248f926496dc894eb010f157ce5ff /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/TwoFragment.class
+1378065332000 373 115a7f0d8d8cc9cc09bda75ac1d935735d50e5a1 /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/BuildConfig.class
+1378065332000 382 47c501bb4cd54c1700de7cd025e6c99dbc5ab47c /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/R$attr.class
+1378065332000 473 bacafb745f694946c2caba5cae5472bad3ad599b /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/R$style.class
+1378065332000 1043 6fd177f4a2e63e2186cb0cea22029a528ba45e86 /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/MainActivity.class
+1378065332000 517 0ba0b73235703e9d2ffc022e987f54d128e55b11 /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/R$layout.class
+1378065332000 476 cdb44722e86f4515c4e3016681a7a7698cdb76b5 /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/R$id.class
+1378052309000 563264 44ec51e9d395a47aab135e5e1b556c0007442156 /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar
+1378065332000 503 4a539537ddb070628cb191731a180eda2ee2a0e2 /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/R$dimen.class
+1378065332000 477 0223a062d33daa0ddfa5188990bc933afea96dd2 /Users/alexfu/Projects/TargetFragmentExample/app/build/classes/debug/com/alexfu/targetfragmentexample/R$color.class

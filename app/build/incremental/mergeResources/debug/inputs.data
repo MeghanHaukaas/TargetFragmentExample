@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378061488000 9397 4a5a9affbb731f195fc18fea78d51be7db7536a2 /Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/drawable-hdpi/ic_launcher.png
+1378061848000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/values/dimens.xml
+1378064965000 669 691d4ea1ab38ce5dab157c0bd2b44d46aad8c982 /Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/layout/fragment_two.xml
+1378064965000 669 2dbc3a9f762d9f87e9afc36f2fc93b80f935fcfc /Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/layout/fragment_one.xml
+1378061848000 181 84de2797380184d8b39af6f829afb092fb956173 /Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/values-sw600dp/dimens.xml
+1378061848000 674 c78f92856947cb5742edaa3b94df76b0823dbbe7 /Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/values/styles.xml
+1378062700000 257 d49efbcbe8bdfefc5640bf9de25da6afac99e9a0 /Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/layout/activity_main.xml
+1378061487000 5237 7761bceaf18ed25cdba5f34bf00a55616d078acf /Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/drawable-mdpi/ic_launcher.png
+1378061848000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/values-sw720dp-land/dimens.xml
+1378062370000 153 e36d178cf87d6a4f1b4aa4faeca7fba109e92f0b /Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/values/colors.xml
+1378065105000 271 54a984653606bab8249a23f9eda6c55f294b3809 /Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/values/strings.xml
+1378061488000 14383 82acdd75e3fcc36026109406625edc69d4d7212d /Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/drawable-xhdpi/ic_launcher.png

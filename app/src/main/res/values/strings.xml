@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">TargetFragmentExample</string>
+  <string name="id">ID = %s</string>
+
+  <string name="btn_one">Start Fragment Two</string>
+  <string name="btn_two">Return to Fragment One</string>
+
+</resources>

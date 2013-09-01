@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/alexfu/Projects/TargetFragmentExample/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_one"
+                path="/Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/layout/fragment_one.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_two"
+                path="/Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/layout/fragment_two.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="fragment_two" >#FF4444
+                </color>
+                <color name="fragment_one" >#AA66CC
+                </color>
+            </file>
+            <file
+                path="/Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="btn_two" >Return to Fragment One
+                </string>
+                <string name="app_name" >TargetFragmentExample
+                </string>
+                <string name="btn_one" >Start Fragment Two
+                </string>
+                <string name="id" >ID = %s
+                </string>
+            </file>
+            <file
+                path="/Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/alexfu/Projects/TargetFragmentExample/app/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/alexfu/Projects/TargetFragmentExample/app/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/alexfu/Projects/TargetFragmentExample/app/src/debug/res" />
+    </dataSet>
+
+</merger>
